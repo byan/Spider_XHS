@@ -53,6 +53,7 @@
 支持绑定多个 PC / Creator 账号，扫码登录、手机验证码、Cookie 导入三种方式。Cookie 加密存储，2 小时自动健康巡检，过期自动通知。
 
 <img src="https://github.com/cv-cat/XHS_ALL_IN_ONE/blob/master/static/frontend_1.jpg" width="600" />
+
 ### 素材优化 — AI 图片润色
 
 选择草稿中的任意图片，添加参考图，输入润色指令，AI 生成优化后的图片并原位替换。当前素材和优化结果并排对比，点击即可放大预览。
